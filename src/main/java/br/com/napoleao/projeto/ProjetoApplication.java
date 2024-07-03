@@ -9,5 +9,4 @@ public class ProjetoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoApplication.class, args);
 	}
-	// https://www.youtube.com/watch?v=QrBnrz8Qf3s
 }
